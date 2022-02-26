@@ -1,2 +1,3 @@
 # WORKSHOP
-This is demo application for workshop. 
+This application is going to be full stack creating app. ı did a bit 
+more changes 
